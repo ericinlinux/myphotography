@@ -1,5 +1,5 @@
 # Learning/Knowing better other photographers
-## Eric Araujo
+##### Eric Araujo
 *Last update:* 2018-03-25
 
 Those are the artists I am studying or trying to learn from.
@@ -15,3 +15,9 @@ Those are the artists I am studying or trying to learn from.
 #### Fashion
 
 * [Lina Tesch](http://www.linatesch.com/)
+
+#### Street photo
+
+* [Eric Kim](http://erickimphotography.com/)
+
+>>>>>> [Back to track](README.md)
