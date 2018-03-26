@@ -1,6 +1,6 @@
-# What I am learning?
+# My learning resources
 #### Eric Araujo
-*Last update:* 2018-03-25
+*Last update:* 2018-03-26
 
 My learning process is made of books, video tutorials, exercises with camera, and by seeing photography. A lot. Here are the main sources of my learning process.
 
